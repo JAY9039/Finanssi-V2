@@ -35,5 +35,4 @@ Email - Mailtojaysharma@gmail.com
 linkedIn - https://www.linkedin.com/in/j-shharma/
 [![Netlify Status](https://api.netlify.com/api/v1/badges/50d82042-b0c6-490b-8d5b-58c96036d73a/deploy-status)](https://app.netlify.com/sites/finanssi/deploys)
 
-**Made with ♥ by** [![Jay Sharma]
-(https://avatars.githubusercontent.com/u/53913697?s=100&u=60c32e2b62898b2c92e768afb5ade71fe2cf6a2d&v=4)](https://github.com/jay9039)
+**Made with ♥ by** [Jay Sharma](https://www.linkedin.com/in/j-shharma/)
